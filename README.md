@@ -50,7 +50,16 @@ echo $connectionString
 ![image](https://user-images.githubusercontent.com/22642792/114311755-5bd7bf00-9ac6-11eb-9e62-81e6e33b8920.png)
 
 
- 7 - Use Dotnet Run command to start bother projects
+ 7 - Use Dotnet Run command to start the first Project (svcbusSend.csproj). After to run the project the messages will go send to recipient. You can see it in Portal Azure 
+ (Path: Choose your resource group, and open the service bus, search by queue and open this)
+ ![image](https://user-images.githubusercontent.com/22642792/114312582-77909480-9ac9-11eb-96e3-f77d045e261e.png)
+ 
+8- Open the second project and run (svcbusRec.csproj), receive the messages send for svcbusSend Project 
+![image](https://user-images.githubusercontent.com/22642792/114312883-a5c2a400-9aca-11eb-8985-1520e2902087.png)
+
+
+
+ 
  
  
  
