@@ -1,0 +1,11 @@
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.csprojAssemblyReference.cache
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.AssemblyInfoInputs.cache
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.AssemblyInfo.cs
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\bin\Debug\netcoreapp2.1\svcbusRec.deps.json
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\bin\Debug\netcoreapp2.1\svcbusRec.runtimeconfig.json
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\bin\Debug\netcoreapp2.1\svcbusRec.runtimeconfig.dev.json
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\bin\Debug\netcoreapp2.1\svcbusRec.dll
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\bin\Debug\netcoreapp2.1\svcbusRec.pdb
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.dll
+C:\Users\cinth\Documents\AzureServiceBus\svcbusRec\obj\Debug\netcoreapp2.1\svcbusRec.pdb
